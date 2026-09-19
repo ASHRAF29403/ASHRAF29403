@@ -1,116 +1,122 @@
-# Hi there, I'm Ashraf Nabil 👋
+<h1 align="center">Hi 👋, I'm Ashraf Nabil</h1>
+<h3 align="center">Junior Data Analyst | Machine Learning Enthusiast | Turning Raw Data into Business Insights</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Junior+Machine+Learning+%26+Data+Analyst;Turning+Data+into+Actionable+Insights;Artificial+Intelligence+%26+Data+Science;Power+BI+%7C+Python+%7C+SQL" align="center">
-  nabilashraf240@gmail.com
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%2B+Power+BI+%2B+Python;Turning+Data+Into+Actionable+Insights;Business+Intelligence+%26+Data+Visualization;Open+to+Junior+Data+Analyst+Roles" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:nabilashraf240@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nabilashraf240%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.com
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ASHRAF29403">
+    <img src="https://img.shields.io/badge/GitHub-ASHRAF29403-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science graduate specialized in Artificial Intelligence and Data Science. Passionate about transforming raw data into meaningful insights through data analysis, visualization, and machine learning.
+I'm a Computer Science graduate (**Artificial Intelligence & Data Science**) from the Faculty of Computers and Informatics, Zagazig University, working as a **Junior Data Analyst**. I turn messy, raw datasets into clean, structured, decision-ready insights using **SQL, Power BI, Excel, and Python**.
 
-I enjoy working with Python, Power BI, SQL, and Excel to clean data, build dashboards, create predictive models, and support data-driven decision making.
-
-My goal is to continuously develop my analytical and machine learning skills while contributing to real-world business solutions.
-
----
-
-## 🔭 What I'm Currently Working On
-
-- Building end-to-end Data Analysis projects using Excel, SQL, Python, and Power BI.
-- Improving my Machine Learning projects with better feature engineering and model evaluation.
-- Expanding my portfolio with business dashboards and predictive analytics solutions.
+- 🔍 I specialize in **data cleaning, exploratory data analysis, dashboard design, and KPI development**.
+- 📊 I've analyzed real-world datasets with 100K–300K+ rows across sales, logistics, and e-learning domains.
+- 🧠 I'm actively deepening my machine learning skills and expanding toward **Data Engineering** (pipelines, warehousing, ETL).
+- 💬 Ask me about: SQL window functions, star schema design, Power Query, DAX, or building dashboards that actually get used.
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack & Tools
 
-- Advanced Data Analytics techniques.
-- Machine Learning model optimization.
-- Data Warehousing and Business Intelligence concepts.
-- Advanced SQL for analytics.
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
----
-
-## 🛠️ Technical Skillset
-
-### 📊 Data Analysis & Visualization
-
-![Excel](https://img.shields.io/badge/Excel-Advanced-yle=flat&logo=microsoft-excel&logoColor=white
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-F2C811logo=powerbi&logoColor=black
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Advanced-bluecs](https://img.shields.io/badge/Statistical%20Analysis-ECDC4?style=flat
-
-### 💻 Programming & Data Science
-
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&sql&logoColor=white
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-style=flat
-
-### 📈 Business Intelligence
-
-![Power Query](https://img.shields.io/badge/Power%20Query-Advanced-yellowAX](https://img.shields.io/badge/DAX-Intermediate-blue?style=KPI Development](https://img.shields.io/badge/KPI%20Development-Intermediate[Reporting](https://img.shields.io/badge/Data%20Reportingple?style=flat
+| Category | Tools |
+|---|---|
+| **Databases & SQL** | MS SQL Server, Window Functions, Star Schema, PIVOT, Stored Procedures |
+| **Business Intelligence** | Power BI, Power Query, DAX, KPI Design, Interactive Dashboards |
+| **Programming** | Python (Pandas, NumPy, Matplotlib/Seaborn), Statistics |
+| **Spreadsheets** | Excel (Advanced Formulas, Pivot Tables, Data Cleaning) |
+| **Machine Learning** | Feature Engineering, Model Training & Evaluation, EDA |
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Data Analysis Projects
 
-### 📊 Sales Data Analysis Project
-- Cleaned and transformed sales data using Excel and Power Query.
-- Analyzed sales trends, product performance, and regional performance.
-- Built interactive Power BI dashboards.
-- Generated business insights to support decision-making.
+### 🍔 [Swiggy Sales SQL Analysis](https://github.com/ASHRAF29403)
+End-to-end SQL analysis of **197K+ rows** of Swiggy sales data using a star-schema data model. Extracted revenue trends, top-performing restaurants, and order-pattern insights using advanced SQL window functions.
+`SQL` `Star Schema` `Window Functions`
 
-### 📈 Business Performance Dashboard
-- Designed an interactive Power BI dashboard.
-- Created DAX measures for KPIs including:
-  - Total Sales
-  - Total Profit
-  - Profit Margin
-  - Sales Growth
-- Developed dynamic visualizations and filtering capabilities.
+### 🚗 [Road Accident Analysis](https://github.com/ASHRAF29403)
+Analyzed **307K+ accident records** combining SQL, Power BI, and Excel to uncover accident hotspots, severity trends, and contributing factors — delivered as an interactive dashboard for stakeholders.
+`SQL` `Power BI` `Excel`
 
-### 🤖 Machine Learning Prediction Projects
-- Performed Data Cleaning and EDA.
-- Applied Feature Engineering techniques.
-- Trained and evaluated multiple machine learning models.
-- Compared performance using appropriate evaluation metrics.
+### 🛒 [Blinkit Sales Analysis](https://github.com/ASHRAF29403)
+Built a full KPI framework on Blinkit sales data using SQL, tracking revenue, order volume, and category-level performance to support business decisions.
+`SQL` `KPI Framework`
+
+### 🎓 [Udemy Courses Success Analysis](https://github.com/ASHRAF29403)
+Investigated what drives course success on Udemy using Power BI, Power Query, and DAX — building dynamic dashboards with pricing, category, and engagement metrics.
+`Power BI` `Power Query` `DAX`
+
+> 📌 Check out all my repositories on **[github.com/ASHRAF29403](https://github.com/ASHRAF29403)**
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats
 
-**Bachelor of Computer Science**  
-Faculty of Computers and Informatics, Zagazig University
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ASHRAF29403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHRAF29403&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-**Specialization:** Artificial Intelligence and Data Science
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHRAF29403&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
----
-
-## 📚 Certifications & Courses
-
-- SQL Course — Ahmed Sami
-- Power BI Course — Mazen Analytics
-- Excel Course — Mazen Analytics
-- Machine Learning Course — Hisham Assem
-- Statistics Course — Hisham Assem
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHRAF29403&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🐍 Contribution Snake
 
-📧 Email: **nabilashraf240@gmail.com**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ASHRAF29403/ASHRAF29403/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark" />
+  <img src="https://raw.githubusercontent.com/ASHRAF29403/ASHRAF29403/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light" />
+</p>
 
-📱 Phone: **+20 1127525976**
+> ⚙️ **Setup required:** the snake animation needs a small GitHub Action running in this repo. See the `snake.yml` file provided alongside this README — instructions below.
 
 ---
 
-### 💡 Quote
+## 📈 Currently Learning
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+- Data Engineering fundamentals: ETL pipelines, Data Warehousing, Airflow
+- Advanced SQL for analytics & performance tuning
+- Machine Learning model optimization
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:nabilashraf240@gmail.com"><img src="https://img.shields.io/badge/Email-nabilashraf240%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i></p>
