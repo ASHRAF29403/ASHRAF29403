@@ -9,7 +9,8 @@
   <a href="mailto:nabilashraf240@gmail.com">
     <img src="https://img.shields.io/badge/Email-nabilashraf240%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/">
+  <a href="www.linkedin.com/in/
+ashraf-nabil-874989331">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ASHRAF29403">
